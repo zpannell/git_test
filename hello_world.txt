@@ -1,1 +1,2 @@
 Hello world!
+Round two to check if VSCode is the default message editor
